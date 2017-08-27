@@ -7,10 +7,17 @@
 - state为1表示解锁，判断输入的密码与localstorage的是否一致
 
 ## 演示
+### 主面板
 ![](/media/img/w1.jpg)
+### 密码太短
 ![](/media/img/w2.jpg)
+### 输入密码
 ![](/media/img/w3.jpg)
+### 不一致
 ![](/media/img/w4.jpg)
+### 设置成功
 ![](/media/img/w5.jpg)
+### 密码错误
 ![](/media/img/w6.jpg)
+### 密码正确
 ![](/media/img/w7.jpg)
