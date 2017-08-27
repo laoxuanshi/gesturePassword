@@ -5,6 +5,3 @@
 - 密码以圆的编号和坐标以数组的方式保存，即[{index：1,x:2,y:3},...]这样的方式
 - 用变量state为0表示设置锁，touchend后对密码的长度和两次输入进行判断，一致则保存到localstorage
 - state为1表示解锁，判断输入的密码与localstorage的是否一致
-
-## 演示
-<iframe height=498 width=410 src="demo.mp4">
