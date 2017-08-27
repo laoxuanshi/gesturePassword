@@ -1,4 +1,4 @@
-# Gesturepw
+# 手势密码
 ## 思路
 - 利用HTML5的canvas api，绘制面板的9个圆和解锁路径折线，每个圆进行编号1~9。
 - 监听手机触摸事件touchstart，touchmove和touchend，用数组touchcircle保存已经触摸的圆，数组restcircle保存剩下的圆。touchmove事件时不停的触发绘制解锁圆和路径的逻辑，用距离判断触摸点是否到达圆里
