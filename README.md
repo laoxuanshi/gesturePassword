@@ -7,10 +7,10 @@
 - state为1表示解锁，判断输入的密码与localstorage的是否一致
 
 ## 演示
-![](/media/img/w1.png)
-![](/media/img/w2.png)
-![](/media/img/w3.png)
-![](/media/img/w4.png)
-![](/media/img/w5.png)
-![](/media/img/w6.png)
-![](/media/img/w7.png)
+![](/media/img/w1.jpg)
+![](/media/img/w2.jpg)
+![](/media/img/w3.jpg)
+![](/media/img/w4.jpg)
+![](/media/img/w5.jpg)
+![](/media/img/w6.jpg)
+![](/media/img/w7.jpg)
